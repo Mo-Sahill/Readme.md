@@ -25,7 +25,7 @@ I love exploring new technologies and applying them to solve real-world problems
 
 ### 📈 GitHub Stats
 
-![Mo Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-sahil&show_icons=true&theme=radical)
+![Mo Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-sahill&show_icons=true&theme=radical)
 
 Feel free to explore my repositories and projects. Let's connect and collaborate on exciting projects!
 
